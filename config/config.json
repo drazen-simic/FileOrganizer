@@ -1,0 +1,18 @@
+{
+    "directories": {
+      "downloads": "C:/putanja/do/foldera_za_organiziranje"
+    },
+    "backup": {
+      "enabled": true,
+      "type": "zip"
+    },
+    "logging": {
+      "log_file": "logs/organizer.log",
+      "level": "INFO"
+    },
+    "watchdog": {
+      "enabled": true,
+      "directory_to_watch": "C:/putanja/do/folder"
+    }
+  }
+  
